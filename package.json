@@ -1,0 +1,19 @@
+{
+  "name": "gulp-plugin",
+  "version": "1.0.0",
+  "description": "gulp_plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choijaewoong/gulp_plugin.git"
+  },
+  "author": "choijaewoong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choijaewoong/gulp_plugin/issues"
+  },
+  "homepage": "https://github.com/choijaewoong/gulp_plugin#readme"
+}
